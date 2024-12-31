@@ -2,6 +2,7 @@
 In this project I have developed a Convolutional Neural Network - keras model, which classifies images of cats and dogs. The dataset used for this model is taken from  Kaggle. The layers used for the CNN model are Dropout layer, Max pooling layer, Conv2d layer, Dense layer, The accuracy of the model is 88% on testing data. The training data consists of 25500 images 50 minutes per epoch on my local machine. For calculating accuracy I used sklearn.metrics for calculating accuracy on my training data
 
 Required libraries for the projects are Tensorflow, Sklearn, Numpy, Matplotlib, Pandas and Plotly
+At the end of the README.md [ this ] file there is link to drive for weights and model.
 Below are some of the output predictions of my model : 
 
 ![image](https://github.com/user-attachments/assets/ed7b1922-de4f-4374-8a5e-932e898ba2bc)
@@ -19,3 +20,5 @@ Below are some of the output predictions of my model :
 ![image](https://github.com/user-attachments/assets/4405b71a-8c13-4c14-ade6-007b69f03ac6)
 ![image](https://github.com/user-attachments/assets/8efb3a9c-a271-423a-b20f-2b9b8bb62526)
 ![image](https://github.com/user-attachments/assets/0eaf09eb-9d8c-44eb-92c2-e7bcdcc28359)
+
+Google drive link, restricted access only - https://drive.google.com/drive/folders/12gtYE00g9vRN-tXFYOSY0iJlttYSan6k?usp=sharing
