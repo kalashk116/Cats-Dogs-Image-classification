@@ -1,5 +1,5 @@
 # Cats-Dogs-Image-classification
-In this project I have developed a Convolutional Neural Network - keras model, which classifies images of cats and dogs. The dataset used for this model is taken from  Kaggle. The layers used for the CNN model are Dropout layer, Max pooling layer, Conv2d layer, Dense layer, The accuracy of the model is 88% on testing data. The training data consists of 25500 images 50 minutes per epoch on my local machine. For calculating accuracy I used sklearn.metrics for calculating accuracy on my training data
+In this project I have developed a Convolutional Neural Network - keras model, which classifies images of cats and dogs. The dataset used for this model is taken from  Kaggle. The layers used for the CNN model are Dropout layer, Max pooling layer, Conv2d layer, Dense layer, The accuracy of the model is 88% on testing data. The training data consists of 25500 images 50 minutes per epoch on my local machine. For calculating accuracy I used sklearn.metrics for calculating accuracy on my training data. The likely thing about the model is that even recognizes inverted and rotates images. 
 
 Required libraries for the projects are Tensorflow, Sklearn, Numpy, Matplotlib, Pandas and Plotly
 At the end of the README.md [ this ] file there is link to drive for weights and model.
